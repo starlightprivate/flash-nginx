@@ -5,4 +5,4 @@
   image_tag: "{{.CommitID}}"
   registry: https://005483456332.dkr.ecr.us-east-1.amazonaws.com
   dockercfg_service: aws_dockercfg
-  tag: ^(feature/nginx)
+  tag: ^(master)
